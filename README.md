@@ -5,3 +5,5 @@ I am a student at Richland High School whos intrested in technology and computer
 
 ## Skills
 I do have some experince in java, coding loops, arrays, and much more java things I can't think off the top of my head. I also know some things about networking and setting up a LAN.   
+
+## Activities
